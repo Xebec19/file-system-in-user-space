@@ -1,3 +1,3 @@
 # File System in Userspace
 
-u can use fs-notify
+filesystem that shows a read-only view of the contents of a Zip archive.

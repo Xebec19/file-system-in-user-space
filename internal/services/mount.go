@@ -32,4 +32,6 @@ func Mount(path, mountpoint string) error {
 	if err := c.MountError; err != nil {
 		return err
 	}
+
+	return nil
 }
